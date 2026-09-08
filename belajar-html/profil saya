@@ -1,0 +1,56 @@
+
+<html>
+<head>  
+<title>Introduction</title>    
+</head>
+<body>
+<div style="text-align: center;">
+  <h1>Introduction</h1>   
+</div>
+
+<p>
+<br1>
+    Nama saya <i>Gerald Steven Neke</i>,asal saya dari NTT 
+    tepatnya di daerah pebatasan negara. saya lahir di sebuah kabupaten kecil di ujung indonesia yang bernama kabupaten <b>malaka</b>
+</br1>
+    
+</p>
+<p2>
+    <div style="text-align: center;">
+    <img src ="d:\HOME\Downloads\DSCF9847.JPG " alt="Gambar" width="200" height="200">          
+    </div>
+</p2>
+<p3>
+    <br1>Sekarang saya sedang menempuh pendidikan tinggi di universitas sanata dharma yogyakarta dalam program Studi <b>informatika</b><br1>
+        <br2>saya memiliki 1 kakak laki-laki dan 1 adik perempuan.</br2>
+        <ol> 
+            <li>Nama kakak saya adalah <b>Felisitus Juandri Neke</b></li>
+            <li>Nama adik saya adalah <b>Aurelia ermayati Neke</b></li> 
+
+
+    <br2>Hobi saya adalah sebagai berikut :</br2>
+        <ul>
+    <li>Sepak Bola</li>
+    <li>Basket</li>
+    <li>Game Online</li>
+    <li>Ngoding</li>
+
+</p3>
+<div style="text-align: center;">
+    <h2>Data Diri</h2>
+</div>
+<table border="1">
+    <tr>
+        <th>No</th>
+        <th>Nama</th>
+        <th>TTL</th>
+        <th>Alamat</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Gerald Steven Neke</td>
+        <td>Malaka, 17 februari 2006</td>
+        <td>Desa  weoe, Kec. Malaka Tengah, Kab. Malaka, NTT</td>
+    </tr>
+</body>
+</html>
