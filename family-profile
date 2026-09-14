@@ -1,7 +1,7 @@
 <html>
 <head>  
 <title>Family Profile</title>    
-/</head>
+</head>
 <body>
     <table border="1">
     <tr>
@@ -22,3 +22,5 @@
         <td>58 tahun</td>
         <td>Ibu</td>
     </tr>
+</body>
+</html>
